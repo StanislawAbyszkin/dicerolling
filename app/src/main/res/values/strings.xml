@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Dice Rolling</string>
-    <string name="hello_stasiek">Hello Stasiek!</string>
+    <string name="roll">Roll</string>
 </resources>
